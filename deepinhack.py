@@ -6,8 +6,8 @@
 # Exploit Author: King's Way <root#kings-way.info>
 # Vendor Homepage: http://www.deepin.org
 # Software Link: http://cdimage.linuxdeepin.com/releases/15.1/deepin-15.1-amd64.iso
-# Version: Deepin 15 & 15.01
-# Tested on: Deepin 15 & 15.01
+# Version: Deepin 15 & 15.1
+# Tested on: Deepin 15 & 15.1
 # CVE : null
 
 # privilege escalation POC for deepin 15 & 15.1 with lastore-daemon.
