@@ -13,7 +13,7 @@
 # privilege escalation POC for deepin 15 & 15.1 with lastore-daemon.
 
 # Vulnerability Description:
-#    In Deepin Linux 15.1, they designed a daemon (called lastore-daemon) based
+#    In Deepin Linux 15, they designed a daemon (called lastore-daemon) based
 #    on dbus and apt to support deepin-appstore.
 #    Lastore-daemon runs with root privilege to run apt-get commands and listens
 #    to dbus message from every user.
