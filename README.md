@@ -14,7 +14,7 @@
 ## Header for [exploit-db](https://www.exploit-db.com/exploits/39433/)
 		Exploit Title: Lastore-daemon in Deepin 15 results in privilege escalation
  		Date: 20160208
- 		Exploit Author: King's Way <root#kings-way.info>
+ 		Exploit Author: King's Way <io[AT]stdio.io>
 	 	Vendor Homepage: http://www.deepin.org
 		Software Link: http://cdimage.linuxdeepin.com/releases/15.1/deepin-15.1-amd64.iso
 		Version: Deepin 15 & 15.1
