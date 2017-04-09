@@ -27,7 +27,7 @@ There is a panel for user to easily change grub config through the control panel
 Actually, it will call DoWriteGrubSettings(), a function provided by dde-daemon,
 to write /etc/default/grub. Then call DoGenerateGrubMenu() to update grub.cfg.
 
-The point here is dde-daemon hardly do anything to identify the user who calls 
+The point here is dde-daemon hardly does anything to identify the user who calls 
 the function. So, anybody can change the grub config, even to append some 
 arguments to make a backdoor or privilege escalation if they have the ability to
 reboot the system or wait for a reboot.
