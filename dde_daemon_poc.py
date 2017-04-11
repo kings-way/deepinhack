@@ -3,8 +3,11 @@
 
 '''
 # Exploit Title: Local Privilege Escalation in DDE (Deepin Desktop Environment)
+
 # Date: 20170401
+# CVE-ID: CVE-2017-7622
 # Exploit Author: King's Way <io[AT]stdio.io>
+
 # Vendor Homepage: http://www.deepin.org
 # Software Link: https://www.deepin.org/en/dde/desktop-transplantation/
 # Affected Version: DDE >= 15
