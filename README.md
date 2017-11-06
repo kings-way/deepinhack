@@ -2,7 +2,7 @@
 
 ## dde_daemon_poc.py
 #### Intro
-* CVE-2016-7622
+* CVE-2017-7622
 
 #### Date & Version
 * Date: 20170401
